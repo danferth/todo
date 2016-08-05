@@ -7,4 +7,4 @@ Todo
 - [ ] fix well plates selection page better click to call system
 - [ ] add click to see more info on parts referance
 - [ ] set `GET` in Full Width template for product pages to set biology or chemistry
-- [ ] redo `JSON` for well plates selection page
+- [x] redo `JSON` for well plates selection page
