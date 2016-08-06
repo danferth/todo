@@ -9,3 +9,4 @@ Todo
 - [ ] set `GET` in Full Width template for product pages to set biology or chemistry
 - [x] redo `JSON` for well plates selection page
 - [x] create test template for setting up complex pages faster
+- [x] overlay testing
