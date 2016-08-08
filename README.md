@@ -10,3 +10,7 @@ Todo
 - [x] redo `JSON` for well plates selection page
 - [x] create test template for setting up complex pages faster
 - [x] overlay testing
+- [ ] overlay should be able to be set on any page
+- [ ] overlay should be able to be set with class and data attribute
+- [ ] overlay should be able to work with angular
+- [ ] overlay should be able to be sent a template from click page through data attribute
