@@ -18,5 +18,5 @@ Todo
 - [ ] overlay should be able to be sent a template from click page through data attribute
 
 ##Other Tasks
-- [ ] well plates indesign catgalog to powerpoint
+- [x] well plates indesign catgalog to powerpoint
 
