@@ -15,7 +15,8 @@ Todo
 - [x] ~~overlay should be able to be set on any page~~ created overlay directive for easy drop in to pages
 - [x] overlay should be able to ~~be set with class and data attribute~~ grab variables from angular
 - [x] overlay should be able to work with angular
-- [ ] overlay should be able to be sent a template from click page through data attribute
+- [x] overlay should be able to be sent a template from click page through data attribute
+- [ ] add overlay to parts referance
 
 ##Other Tasks
 - [x] well plates indesign catgalog to powerpoint
