@@ -28,3 +28,13 @@ Todo
 ##Pages to start adding text
 - [ ] FV main page would be first few pages from appnote booklets
 - [ ] UYF page.
+
+##gist cheatsheet to make
+- [ ] **functions to get to:**
+- [ ] uploads folder
+- [ ] theme directory
+- [ ] base url
+- [ ] shortcode template
+- [ ] enque script code
+- [ ] function for removing added `<p>` and crap
+- [ ] ....
