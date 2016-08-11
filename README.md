@@ -20,6 +20,7 @@ Todo
 ##Product pages
 - [ ] need to have system for dropdown or something for appnotes, or get from query? duh no yet!
 - [ ] another `JSON` file with appnotes  and text? I think text should be hard coded but what about the whole bio chem deal ug!
+- [ ] get a quote and get me samples? how to auto place into forms...
 
 ##Other Tasks
 - [x] well plates indesign catgalog to powerpoint
