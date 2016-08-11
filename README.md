@@ -3,10 +3,10 @@ Todo
 - [x] add PN's to FV pages
 - [x] double check all links in robot lisa
 - [x] new favicon
-- [ ] create well plates general page with all part numbers
 - [x] fix well plates search
 - [ ] add click to see more info on parts referance
-- [ ] set `GET` in Full Width template for product pages to set biology or chemistry
+- [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
+- [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [x] redo `JSON` for well plates selection page
 - [x] create test template for setting up complex pages faster
 
@@ -17,6 +17,13 @@ Todo
 - [x] overlay should be able to work with angular
 - [x] overlay should be able to be sent a template from click page through data attribute
 
+##Product pages
+- [ ] need to have system for dropdown or something for appnotes, or get from query? duh no yet!
+- [ ] another `JSON` file with appnotes  and text? I think text should be hard coded but what about the whole bio chem deal ug!
+
 ##Other Tasks
 - [x] well plates indesign catgalog to powerpoint
-
+ 
+##Pages to start adding text
+- [ ] FV main page would be first few pages from appnote booklets
+- [ ] UYF page.
