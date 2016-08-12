@@ -10,6 +10,7 @@ Todo
 - [x] redo `JSON` for well plates selection page
 - [x] create test template for setting up complex pages faster
 - [x] found old favicons replace
+- [ ] change all product pages to have shorter urls ie no more `optimum-growth/optimum-growth-transfer-cap/inversion-transfer-cap/`  insdead have `og/tc/inversion` so much cleaner
 
 ##Overlay
 - [x] overlay testing
@@ -24,9 +25,6 @@ Todo
 - [ ] another `JSON` file with appnotes  and text? I think text should be hard coded but what about the whole bio chem deal ug!
 - [ ] get a quote and get me samples? how to auto place into forms...overlay?
 
-##Other Tasks
-- [x] well plates indesign catgalog to powerpoint
- 
 ##Pages to start adding text
 - [ ] FV main page would be first few pages from appnote booklets
 - [ ] UYF page.
@@ -40,3 +38,6 @@ Todo
 - [ ] enque script code
 - [ ] function for removing added `<p>` and crap
 - [ ] ....
+
+##Other Tasks
+- [x] well plates indesign catgalog to powerpoint
