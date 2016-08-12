@@ -20,7 +20,7 @@ Todo
 - [x] overlay should be able to ~~be set with class and data attribute~~ grab variables from angular
 - [x] overlay should be able to work with angular
 - [x] overlay should be able to be sent a template from click page through data attribute
-- [ ] add click to close button so we can have forms or selectable text, that and people may not know to click anywhere
+- [x] add click to close button so we can have forms or selectable text, that and people may not know to click anywhere
 
 ##Product pages
 - [ ] need to have system for dropdown or something for appnotes, or get from query? duh no yet!
