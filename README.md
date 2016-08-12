@@ -11,6 +11,7 @@ Todo
 - [x] create test template for setting up complex pages faster
 - [x] found old favicons replace
 - [ ] change all product pages to have shorter urls ie no more `optimum-growth/optimum-growth-transfer-cap/inversion-transfer-cap/`  insdead have `og/tc/inversion` so much cleaner
+- [ ] then update the `products.json` file
 
 ##Overlay
 - [x] overlay testing
