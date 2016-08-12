@@ -9,7 +9,7 @@ Todo
 - [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [x] redo `JSON` for well plates selection page
 - [x] create test template for setting up complex pages faster
-- [ ] found old favicons replace
+- [x] found old favicons replace
 
 ##Overlay
 - [x] overlay testing
@@ -17,11 +17,12 @@ Todo
 - [x] overlay should be able to ~~be set with class and data attribute~~ grab variables from angular
 - [x] overlay should be able to work with angular
 - [x] overlay should be able to be sent a template from click page through data attribute
+- [ ] add click to close button so we can have forms or selectable text, that and people may not know to click anywhere
 
 ##Product pages
 - [ ] need to have system for dropdown or something for appnotes, or get from query? duh no yet!
 - [ ] another `JSON` file with appnotes  and text? I think text should be hard coded but what about the whole bio chem deal ug!
-- [ ] get a quote and get me samples? how to auto place into forms...
+- [ ] get a quote and get me samples? how to auto place into forms...overlay?
 
 ##Other Tasks
 - [x] well plates indesign catgalog to powerpoint
