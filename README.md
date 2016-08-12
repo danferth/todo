@@ -12,6 +12,7 @@ Todo
 - [x] found old favicons replace
 - [ ] change all product pages to have shorter urls ie no more `optimum-growth/optimum-growth-transfer-cap/inversion-transfer-cap/`  insdead have `og/tc/inversion` so much cleaner
 - [ ] then update the `products.json` file
+- [ ] move all custom `js` into `assests/javascript/custom` and remove any `enque_script` madness
 
 ##Overlay
 - [x] overlay testing
