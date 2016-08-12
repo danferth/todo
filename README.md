@@ -9,6 +9,7 @@ Todo
 - [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [x] redo `JSON` for well plates selection page
 - [x] create test template for setting up complex pages faster
+- [ ] found old favicons replace
 
 ##Overlay
 - [x] overlay testing
