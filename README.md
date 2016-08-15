@@ -15,6 +15,7 @@ Todo
 - [x] ~~move all custom `js` into `assests/javascript/custom` and remove any `enque_script` madness~~ <= this was maddness and did not work! JSON moved to it's own folder though:)
 - [ ] new images for the roadmap tiles
 - [ ] text for each roadmap tile
+- [ ] Photos of a few products for roadmap images
 
 ##Overlay
 - [x] overlay testing
