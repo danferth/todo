@@ -16,7 +16,7 @@ Todo
 - [ ] new images for the roadmap tiles
 - [ ] text for each roadmap tile
 - [ ] Photos of a few products for roadmap images
-- [ ] update `shortcodes` with `home_url()` and `content_url()` with paths
+- [x] update `shortcodes` with `home_url()` and `content_url()` with paths
 
 ##Overlay
 - [x] overlay testing
@@ -34,16 +34,15 @@ Todo
 ##Pages to start adding text
 - [ ] FV main page would be first few pages from appnote booklets
 - [ ] UYF page.
+- [ ] need hero div possibly with markup inside but has to have full width height background.  This needs to be css background so `shortcode` for page content and `css` `class` to set as full size background.  Then can set image with maybe a shortcode with attribute `[background src='image.jpg']` would inject into a `<div>` like this `<div class='full-background' [background src='bgImage.jpg']>` and have it render `<div class='full-background' style='background-image:url(../../bgImage.jpg;'>`
 
 ##gist cheatsheet to make
-- [ ] **functions to get to:**
-- [ ] uploads folder
-- [ ] theme directory
-- [ ] base url
-- [ ] shortcode template
-- [ ] enque script code
-- [ ] function for removing added `<p>` and crap
-- [ ] ....
-
-##Other Tasks
-- [x] well plates indesign catgalog to powerpoint
+- [x] **functions to get to:**
+- [x] uploads folder
+- [x] theme directory
+- [x] base url
+- [x] shortcode template
+- [x] enque script code
+- [x] function for removing added `<p>` and crap
+- [x] custom field  usage
+- ...... oh i'm sure there's more
