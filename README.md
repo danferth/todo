@@ -16,6 +16,7 @@ Todo
 - [ ] new images for the roadmap tiles
 - [ ] text for each roadmap tile
 - [ ] Photos of a few products for roadmap images
+- [ ] update `shortcodes` with `home_url()` and `content_url()` with paths
 
 ##Overlay
 - [x] overlay testing
