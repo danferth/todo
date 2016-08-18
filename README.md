@@ -1,12 +1,12 @@
 Todo
 ====
+- [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
+- [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [x] add PN's to FV pages
 - [x] double check all links in robot lisa
 - [x] new favicon
 - [x] fix well plates search
 - [x] add click to see more info on parts referance
-- [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
-- [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [x] redo `JSON` for well plates selection page
 - [x] create test template for setting up complex pages faster
 - [x] found old favicons replace
