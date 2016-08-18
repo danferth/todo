@@ -17,6 +17,7 @@ Todo
 - [x] new images for the roadmap tiles
 - [x] Photos of a few products for roadmap images
 - [x] update `shortcodes` with `home_url()` and `content_url()` with paths
+- [ ] redo the transfer cap form in angular will need json file and what not
 
 ##Overlay
 - [x] overlay testing
