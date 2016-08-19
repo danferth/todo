@@ -2,6 +2,8 @@ Todo
 ====
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
 - [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
+- [ ] text for each roadmap tile
+- [ ] redo the transfer cap form in angular will need json file and what not
 - [x] add PN's to FV pages
 - [x] double check all links in robot lisa
 - [x] new favicon
@@ -13,12 +15,11 @@ Todo
 - [x] change all product pages to have shorter urls ie no more `optimum-growth/optimum-growth-transfer-cap/inversion-transfer-cap/`  insdead have `og/tc/inversion` so much cleaner
 - [x] then update the `products.json` file
 - [x] ~~move all custom `js` into `assests/javascript/custom` and remove any `enque_script` madness~~ <= this was maddness and did not work! JSON moved to it's own folder though:)
-- [ ] text for each roadmap tile
 - [x] new images for the roadmap tiles
 - [x] Photos of a few products for roadmap images
 - [x] update `shortcodes` with `home_url()` and `content_url()` with paths
-- [ ] redo the transfer cap form in angular will need json file and what not
 - [x] tweak roadmap tiles and set up equal columns as well
+- [x] redesign roadmap tiles
 
 ##Overlay
 - [x] overlay testing
