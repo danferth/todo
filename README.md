@@ -2,7 +2,7 @@ Todo
 ====
 
 # HOT ISSUE
-- [ ] where the hell did the off canvas menu go!
+- [x] where the hell did the off canvas menu go! -shheez that was too easy :)
 
 ## The big random list
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
