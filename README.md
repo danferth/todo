@@ -5,6 +5,7 @@ Todo
 - [x] where the hell did the off canvas menu go! -shheez that was too easy :)
 
 ## The big random list
+- [ ] product page `hero` with `<select>` responsive height is ganky
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
 - [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [ ] text for each roadmap tile
