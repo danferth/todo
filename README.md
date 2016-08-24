@@ -36,9 +36,10 @@ Todo
 - [x] add click to close button so we can have forms or selectable text, that and people may not know to click anywhere
 
 ##Product pages
-- [ ] need to have system for dropdown or something for appnotes, or get from query? duh no yet!
 - [ ] another `JSON` file with appnotes  and text? I think text should be hard coded but what about the whole bio chem deal ug!
 - [ ] get a quote and get me samples? how to auto place into forms...overlay?
+- [ ] pass `variables` to overlay form
+- [x] need to have system for dropdown or something for appnotes, or get from query? duh no yet!
 
 ##Pages to start adding text
 - [ ] FV main page would be first few pages from appnote booklets
