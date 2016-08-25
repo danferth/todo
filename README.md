@@ -1,6 +1,13 @@
 Todo
 ====
 
+The form on product pages are on the overlay so returns from the `parse` are sending back and would have to do a check for querys and reopen the overlay with success message.
+
+Maybe if the forms are a dropdown or slide down if you will with the pars code in the form so there is no reload and the success is there?
+
+what about setting the `ng-model` on the form `inputs`, will they still be set if they go to another page?  have to test this one out would be easier than local storage maybe.
+
+
 # HOT ISSUE
 - [x] where the hell did the off canvas menu go! -shheez that was too easy :)
 
