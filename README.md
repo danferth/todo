@@ -3,6 +3,7 @@ Todo
 
 # HOT ISSUE
 - [x] where the hell did the off canvas menu go! -shheez that was too easy :)
+- [ ] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
@@ -37,6 +38,7 @@ Todo
 
 ##Product pages
 - [ ] another `JSON` file with appnotes  and text? I think text should be hard coded but what about the whole bio chem deal ug!
+- [ ] appnotes on the page after cell line selection or working field entered
 - [x] get a quote and get me samples? how to auto place into forms...overlay?
 - [x] ~~pass `variables` to overlay form~~ use `sessionStorage` for product inquiry forms
 - [x] need to have system for dropdown or something for appnotes, or get from query? duh no yet!
