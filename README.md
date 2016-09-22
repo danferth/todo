@@ -3,11 +3,13 @@ Todo
 
 # HOT ISSUE
 - [x] where the hell did the off canvas menu go! -shheez that was too easy :)
-- [ ] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
+- [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] move posts to pages as we can not use angular :( and also you have to have a category
+- [ ] tech results `app.js` on links to pages should just redirect to the page with `window.location`
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
-- [ ] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
+- [x] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
 - [x] product page `hero` with `<select>` responsive height is ganky
@@ -37,7 +39,7 @@ Todo
 - [x] add click to close button so we can have forms or selectable text, that and people may not know to click anywhere
 
 ##Product pages
-- [ ] another `JSON` file with appnotes  and text? I think text should be hard coded but what about the whole bio chem deal ug!
+- [x] another `JSON` file with appnotes  ~~and text? I think text should be hard coded but what about the whole bio chem deal ug!~~
 - [ ] appnotes on the page after cell line selection or working field entered
 - [x] get a quote and get me samples? how to auto place into forms...overlay?
 - [x] ~~pass `variables` to overlay form~~ use `sessionStorage` for product inquiry forms
@@ -45,8 +47,8 @@ Todo
 
 ##Pages to start adding text
 - [ ] FV main page would be first few pages from appnote booklets
-- [ ] UYF page.
-- [ ] need hero div possibly with markup inside but has to have full width height background.  This needs to be css background so `shortcode` for page content and `css` `class` to set as full size background.  Then can set image with maybe a shortcode with attribute `[background src='image.jpg']` would inject into a `<div>` like this `<div class='full-background' [background src='bgImage.jpg']>` and have it render `<div class='full-background' style='background-image:url(../../bgImage.jpg;'>`
+- [x] UYF page.
+- [x] need hero div possibly with markup inside but has to have full width height background.  This needs to be css background so `shortcode` for page content and `css` `class` to set as full size background.  Then can set image with maybe a shortcode with attribute `[background src='image.jpg']` would inject into a `<div>` like this `<div class='full-background' [background src='bgImage.jpg']>` and have it render `<div class='full-background' style='background-image:url(../../bgImage.jpg;'>`
 
 ##gist cheatsheet to make
 - [x] **functions to get to:**
