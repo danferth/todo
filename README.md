@@ -6,8 +6,8 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
-- [ ] move posts to pages as we can not use angular :( and also you have to have a category
-- [ ] tech results `app.js` on links to pages should just redirect to the page with `window.location`
+- [x] move posts to pages as we can not use angular :( and also you have to have a category
+- [x] tech results `app.js` on links to pages should just redirect to the page with `window.location`
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
 - [x] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
 - [ ] text for each roadmap tile
