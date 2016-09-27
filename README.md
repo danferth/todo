@@ -8,6 +8,7 @@ Todo
 ## The big random list
 - [ ] send to tech library and have it set to a product
 - [ ] create shortcodes for the common layouts for pages i.e. text only, image with text, two images or data graphs...
+- [ ] create block for more info like FAQ's videos...
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
