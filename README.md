@@ -7,6 +7,7 @@ Todo
 
 ## The big random list
 - [ ] create shortcodes for the common layouts for pages i.e. text only, image with text, two images or data graphs...
+- [ ] add phone number to inquiry module forms
 - [ ] create block for more info like FAQ's videos...
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
