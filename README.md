@@ -7,6 +7,7 @@ Todo
 
 ## The big random list
 - [ ] create shortcodes for the common layouts for pages i.e. text only, image with text, two images or data graphs...
+- [ ] if not infor for tech result item then do not display item. (pseudo element with content in `css` hm....)
 - [ ] create block for more info like FAQ's videos...
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
