@@ -7,11 +7,11 @@ Todo
 
 ## The big random list
 - [ ] create shortcodes for the common layouts for pages i.e. text only, image with text, two images or data graphs...
-- [x] if no info for tech result item then do not display item. (pseudo element with content in `css` hm....)
 - [ ] create block for more info like FAQ's videos...
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
+- [x] if no info for tech result item then do not display item. (pseudo element with content in `css` hm....)
 - [x] send to tech library and have it set to a product
 - [x] move posts to pages as we can not use angular :( and also you have to have a category
 - [x] tech results `app.js` on links to pages should just redirect to the page with `window.location`
