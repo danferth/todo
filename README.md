@@ -6,12 +6,12 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
-- [ ] send to tech library and have it set to a product
 - [ ] create shortcodes for the common layouts for pages i.e. text only, image with text, two images or data graphs...
 - [ ] create block for more info like FAQ's videos...
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
+- [x] send to tech library and have it set to a product
 - [x] move posts to pages as we can not use angular :( and also you have to have a category
 - [x] tech results `app.js` on links to pages should just redirect to the page with `window.location`
 - [x] figure out what to do with `$_GET` need to get into `angular`? or something.  Once page knows the query how does it show differing text apnotes ect.
