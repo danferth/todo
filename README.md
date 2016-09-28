@@ -2,6 +2,7 @@ Todo
 ====
 
 # HOT ISSUE
+- [ ] add bio TC for 2.8 931804 to products and upload image
 - [x] where the hell did the off canvas menu go! -shheez that was too easy :)
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
