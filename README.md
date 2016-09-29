@@ -7,6 +7,7 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] info bar or module with tech library info and such for product pages
 - [ ] update readme with new shortcodes and add pdf with cheet sheet to file
 - [ ] add phone number to inquiry module forms
 - [ ] create block for more info like FAQ's videos...
