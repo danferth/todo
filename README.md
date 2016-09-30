@@ -8,6 +8,7 @@ Todo
 
 ## The big random list
 - [ ] update readme with new shortcodes and add pdf with cheet sheet to file
+- [ ] need module for related products (use prefooter? to much to the bottom of page?) this needs to be expanded on to further engage the user
 - [ ] add phone number to inquiry module forms
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
