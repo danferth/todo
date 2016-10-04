@@ -8,6 +8,7 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] need another layout shorcode for smaller centered block for quotes or smaller image.
 - [ ] add phone number to inquiry module forms
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
