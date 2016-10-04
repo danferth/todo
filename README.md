@@ -8,11 +8,11 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
-- [ ] need another layout shorcode for smaller centered block for quotes or smaller image.
-- [x] add phone number to inquiry module forms
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
+- [x] add phone number to inquiry module forms
+- [x] need another layout shorcode for smaller centered block for quotes or smaller image.
 - [x] need module for related products (use prefooter? to much to the bottom of page?) this needs to be expanded on to further engage the user
 - [x] update readme with new shortcodes and add pdf with cheet sheet to file
 - [x] create block for more info like FAQ's videos...
