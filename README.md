@@ -9,7 +9,7 @@ Todo
 
 ## The big random list
 - [ ] need another layout shorcode for smaller centered block for quotes or smaller image.
-- [ ] add phone number to inquiry module forms
+- [x] add phone number to inquiry module forms
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
