@@ -9,6 +9,7 @@ Todo
 
 ## The big random list
 - [ ] Add tox book and two appnotes to the tech.json file
+- [ ] start design of search for tech library
 - [ ] text for each roadmap tile
 - [ ] redo the transfer cap form in angular will need json file and what not
 - [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
