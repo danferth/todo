@@ -9,6 +9,9 @@ Todo
 
 ## The big random list
 - [ ] Add tox book and two appnotes to the tech.json file
+- [ ] in tech library two selects for product (line and series) default will be all and once line is selected the series limits to just available.
+- [ ] ability to select product before entering the tech library
+- [ ] links or module to get to other main sections of tech library from each one. *i.e. in videos and link to appnotes keeping the product selected*
 - [ ] start design of search for tech library
 - [ ] need to have a careers page like just a link in footer and simple page only one or two positions open at a time
 - [ ] need to have a new and noteworthy news section for say new appnotes or trade shows we will attend. maybe like a twitter feed?
