@@ -8,6 +8,7 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] in tech library two selects for product (line and series) default will be all and once line is selected the series limits to just available.
 - [ ] ability to select product before entering the tech library
 - [ ] links or module to get to other main sections of tech library from each one. *i.e. in videos and link to appnotes keeping the product selected*
