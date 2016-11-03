@@ -8,6 +8,7 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] rework shortcodes to all have an added class attribute and have a push pull sttribute for text_image shortcode
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] in tech library two selects for product (line and series) default will be all and once line is selected the series limits to just available.
 - [ ] ability to select product before entering the tech library
