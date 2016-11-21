@@ -8,17 +8,21 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] industry in the techlibrary.json needs to be an `[]` not a `string`
+- [ ] `<input type="hidden" value="getStorage('science')" />` in all the quiry forms
+- [ ] template for pages that do not require angular ie the carrers page (so they load faster)
+- [ ] order by date in the tech note results
 - [ ] rework shortcodes to all have an added class attribute and have a push pull sttribute for text_image shortcode
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
-- [ ] in tech library two selects for product (line and series) default will be all and once line is selected the series limits to just available.
-- [ ] ability to select product before entering the tech library
-- [ ] links or module to get to other main sections of tech library from each one. *i.e. in videos and link to appnotes keeping the product selected*
 - [ ] start design of search for tech library
-- [ ] need to have a careers page like just a link in footer and simple page only one or two positions open at a time
 - [ ] need to have a new and noteworthy news section for say new appnotes or trade shows we will attend. maybe like a twitter feed?
-- [ ] text for each roadmap tile
-- [ ] redo the transfer cap form in angular will need json file and what not
-- [ ] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
+- [x] in tech library two selects for product (line and series) default will be all and once line is selected the series limits to just available.
+- [x] ability to select product before entering the tech library
+- [x] links or module to get to other main sections of tech library from each one. *i.e. in videos and link to appnotes keeping the product selected*
+- [x] need to have a careers page like just a link in footer and simple page only one or two positions open at a time
+- [x] text for each roadmap tile
+- [x] redo the transfer cap form in angular will need json file and what not
+- [x] set `$_GET` in ~~Full Width template for product pages~~ test template to set biology or chemistry and have angular know it
 - [x] Add tox book and two appnotes to the tech.json file as well as poster to published works
 - [x] add phone number to inquiry module forms
 - [x] need another layout shorcode for smaller centered block for quotes or smaller image.
