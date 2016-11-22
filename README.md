@@ -9,6 +9,7 @@ Todo
 
 ## The big random list
 - [ ] on large screens a module that floated mid screen on the left that housed linked in twitter and tech library link
+- [ ] update distributors list
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] start design of search for tech library
 - [ ] need to have a new and noteworthy news section for say new appnotes or trade shows we will attend. maybe like a twitter feed?
