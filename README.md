@@ -8,6 +8,7 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] on large screens a module that floated mid screen on the left that housed linked in twitter and tech library link
 - [ ] order by date in the tech note results [codepen](https://codepen.io/danferth/pen/8eb2fb19f2dd022b9330337076dab685?#)
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] start design of search for tech library
