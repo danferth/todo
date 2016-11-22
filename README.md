@@ -8,12 +8,12 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
-- [ ] `<input type="hidden" value="getStorage('science')" />` in all the quiry forms
 - [ ] order by date in the tech note results [codepen](https://codepen.io/danferth/pen/8eb2fb19f2dd022b9330337076dab685?#)
 - [ ] rework shortcodes to all have an added class attribute and have a push pull sttribute for text_image shortcode
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] start design of search for tech library
 - [ ] need to have a new and noteworthy news section for say new appnotes or trade shows we will attend. maybe like a twitter feed?
+- [x] `<input type="hidden" value="getStorage('science')" />` in all the quiry forms
 - [x] template for pages that do not require angular ie the carrers page (so they load faster)
 - [x] industry in the techlibrary.json needs to be an `[]` not a `string`
 - [x] in tech library two selects for product (line and series) default will be all and once line is selected the series limits to just available.
