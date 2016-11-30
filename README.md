@@ -8,6 +8,7 @@ Todo
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 
 ## The big random list
+- [ ] on main roadmap pages copy top `<p>` in a `<div>` wrapper
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] start design of search for tech library
 - [ ] set up or check variables for changing nav bar styles easily
