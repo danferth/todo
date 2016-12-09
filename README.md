@@ -10,6 +10,8 @@ Todo
 ## The big random list
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] start design of search for tech library
+- [ ] redo distributors page
+- [ ] start looking at cell culture and FV about page layouts
 - [ ] change over to gulp - will have to work off of gulp starter
 - [x] on main roadmap pages copy top `<p>` in a `<div>` wrapper
 - [x] set up or check variables for changing nav bar styles easily
