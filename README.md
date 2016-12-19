@@ -6,6 +6,10 @@ Todo
 - [x] add bio TC for 2.8 931804 to products and upload image
 - [x] where the hell did the off canvas menu go! -shheez that was too easy :)
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
+- [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
+- [ ] MOve well plate search to well plates page no reason to have them separate
+- [ ] Add plate covers to plate search *(get interaction between the two)*
+- [ ] glassware needs search
 
 ## The big random list
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
