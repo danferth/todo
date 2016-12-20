@@ -9,6 +9,13 @@ Todo
 - [x] MOve well plate search to well plates page no reason to have them separate
 
 ## The big random list
+- [ ] Oppertunities *(sp)* on main nav and footer link
+- [ ] double check the well plate well shapes the 24 well square well round bottoms are not triggering
+- [ ] on well search try to have only 10mL for volume select
+- [ ] need way to clear well shape select
+- [ ] First seal has a weird `,` prepended to description
+- [ ] Incorporate seals and covers into search on well search
+- [ ] glassware organization needed
 - [ ] glassware needs search
 - [ ] Add plate covers to plate search *(get interaction between the two)*
 - [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
