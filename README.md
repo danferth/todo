@@ -5,8 +5,6 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
-- [ ] Oppertunities *(sp)* on main nav and footer link
-- [ ] First seal has a weird `,` prepended to description
 - [ ] double check the well plate well shapes the 24 well square well round bottoms are not triggering
 - [ ] on well search try to have only 10mL for volume select
 - [ ] need way to clear well shape select
@@ -16,6 +14,8 @@ Todo
 - [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] Oppertunities *(sp)* on main nav and footer link
+- [x] First seal has a weird `,` prepended to description
 - [x] start looking at cell culture and FV about page layouts
 - [x] start design of search for tech library
 - [x] redo distributors page
