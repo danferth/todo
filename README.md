@@ -1,31 +1,30 @@
 Todo
 ====
 
-# HOT ISSUE
+# OTHER PEOPLES PROBLEMS
+- [ ] text for sales to look over
+
+## The big random list
+- [ ] Oppertunities *(sp)* on main nav and footer link
+- [ ] First seal has a weird `,` prepended to description
+- [ ] double check the well plate well shapes the 24 well square well round bottoms are not triggering
+- [ ] on well search try to have only 10mL for volume select
+- [ ] need way to clear well shape select
+- [ ] Add plate covers to plate search *(get interaction between the two)*
+- [ ] glassware organization needed
+- [ ] glassware needs search
+- [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
+- [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
+- [ ] change over to gulp - will have to work off of gulp starter
+- [x] start looking at cell culture and FV about page layouts
+- [x] start design of search for tech library
+- [x] redo distributors page
+- [x] on main roadmap pages copy top `<p>` in a `<div>` wrapper
 - [x] `parse-inqiery-form` is sending back to `/test` and needs to send back to previous page. 
 - [x] add bio TC for 2.8 931804 to products and upload image
 - [x] where the hell did the off canvas menu go! -shheez that was too easy :)
 - [x] **not really ht but...** need to add the new UYF flask with cap and cap to products and images
 - [x] MOve well plate search to well plates page no reason to have them separate
-
-## The big random list
-- [ ] Oppertunities *(sp)* on main nav and footer link
-- [ ] double check the well plate well shapes the 24 well square well round bottoms are not triggering
-- [ ] on well search try to have only 10mL for volume select
-- [ ] need way to clear well shape select
-- [ ] First seal has a weird `,` prepended to description
-- [ ] Incorporate seals and covers into search on well search
-- [ ] glassware organization needed
-- [ ] glassware needs search
-- [ ] Add plate covers to plate search *(get interaction between the two)*
-- [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
-- [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
-- [ ] start looking at cell culture and FV about page layouts
-- [ ] text for sales to look over
-- [ ] change over to gulp - will have to work off of gulp starter
-- [x] start design of search for tech library
-- [x] redo distributors page
-- [x] on main roadmap pages copy top `<p>` in a `<div>` wrapper
 - [x] set up or check variables for changing nav bar styles easily
 - [x] **fix the FLOUC on the rail nav**
 - [x] introduce the twitter module or 'prefooter' instead of just being a chunk of the page
