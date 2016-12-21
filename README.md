@@ -6,6 +6,7 @@ Todo
 
 ## The big random list
 - [ ] product listings need a hover click reveal of more info just basic specs and an image
+- [ ] Product parts linsings have a checkbox for common items like 'sterile, accessories available...'
 - [ ] glassware organization needed
 - [ ] glassware needs search
 - [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
