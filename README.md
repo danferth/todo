@@ -5,6 +5,7 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
+- [ ] the related products needs an overhaul. it's a bit big when only two are present. Also the styling when on smaller screens is horrible
 - [ ] product listings need a hover click reveal of more info just basic specs and an image
 - [ ] Product parts linsings have a checkbox for common items like 'sterile, accessories available...'
 - [ ] glassware organization needed
