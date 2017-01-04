@@ -5,6 +5,7 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
+- [ ] redo overlay to have overlay module a sibling to mask not child. This way `js` can handle a click to close the whole bannana. *maybe have both in parent div*
 - [ ] documentation needs to be redone. *ie. json keys, shortcoeds...*
 - [ ] New font needs to be looked into
 - [ ] module by module style review (parts list and tech notes hover and click on mobile, form boxes, twitter...all of them) *look at desktop => tablet => mobile*
