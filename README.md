@@ -5,7 +5,6 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
-- [ ] redo overlay to have overlay module a sibling to mask not child. This way `js` can handle a click to close the whole bannana. *maybe have both in parent div*
 - [ ] documentation needs to be redone. *ie. json keys, shortcoeds...*
 - [ ] New font needs to be looked into
 - [ ] module by module style review (parts list and tech notes hover and click on mobile, form boxes, twitter...all of them) *look at desktop => tablet => mobile*
@@ -23,6 +22,7 @@ Todo
 - [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] redo overlay to have overlay module a sibling to mask not child. This way `js` can handle a click to close the whole bannana. *maybe have both in parent div*
 - [x] product listings need a hover click reveal of more info just basic specs and an image
 - [x] well plate overlay needs to be redone
 - [x] Add plate covers to plate search *(get interaction between the two)*
