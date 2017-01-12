@@ -13,7 +13,6 @@ Todo
 - [ ] forms need second look at validation *also* **what gives on the other forms need answers**
 - [ ] nail down forms text, responce, output and email receiving issues
 - [ ] double check all product images and downloads. *(download the folders from c9 output on screen file names from json and match up in file explorer with details view)*
-- [ ] off canvas menu text needs to be white
 - [ ] God i know there's more....
 - [ ] the related products needs an overhaul. it's a bit big when only two are present. Also the styling when on smaller screens is horrible
 - [ ] Product parts linsings have a checkbox for common items like 'sterile, accessories available...'
@@ -23,6 +22,7 @@ Todo
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
 - [x] redo overlay to have overlay module a sibling to mask not child. This way `js` can handle a click to close the whole bannana. *maybe have both in parent div*
+- [x] off canvas menu text needs to be white
 - [x] product listings need a hover click reveal of more info just basic specs and an image
 - [x] well plate overlay needs to be redone
 - [x] Add plate covers to plate search *(get interaction between the two)*
