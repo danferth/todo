@@ -24,6 +24,9 @@ Todo
 - [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] in membranes section of about FV add links to chemical and compound compatibility
+- [x] Add links to chemical and compound compatibility to FAQ of FV's
+- [x] In tech library under the chemical and compound compatibility add membrans and tester didn't click cause though FV only
 - [x] redo overlay to have overlay module a sibling to mask not child. This way `js` can handle a click to close the whole bannana. *maybe have both in parent div*
 - [x] New font needs to be looked into
 - [x] off canvas menu text needs to be white
