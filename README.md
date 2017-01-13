@@ -5,6 +5,10 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
+- [ ] create link to general information fliers on product pge for download and in tech library change links to general info to the product page
+- [ ] remove any empty links (mostly addwords landing pages) from tech library
+- [ ] clamp charts need to be on product page for flasks not in tech library
+- [ ] link to accessories on product page in text somewehere
 - [ ] documentation needs to be redone. *ie. json keys, shortcoeds...*
 - [ ] module by module style review (parts list and tech notes hover and click on mobile, form boxes, twitter...all of them) *look at desktop => tablet => mobile*
 - [ ] page by page look at style *look at desktop => tablet => mobile*
