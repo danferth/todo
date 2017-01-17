@@ -5,7 +5,6 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
-- [ ] create link to general information fliers on product pge for download and in tech library change links to general info to the product page
 - [ ] clamp charts need to be on product page for flasks not in tech library
 - [ ] link to accessories on product page in text somewehere
 - [ ] documentation needs to be redone. *ie. json keys, shortcoeds...*
@@ -23,6 +22,7 @@ Todo
 - [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] create link to general information fliers on product pge for download and in tech library change links to general info to the product page
 - [x] remove any empty links (mostly addwords landing pages) from tech library
 - [x] in membranes section of about FV add links to chemical and compound compatibility
 - [x] Add links to chemical and compound compatibility to FAQ of FV's
