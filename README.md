@@ -5,7 +5,6 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
-- [ ] link to accessories on product page in text somewehere
 - [ ] documentation needs to be redone. *ie. json keys, shortcoeds...*
 - [ ] module by module style review (parts list and tech notes hover and click on mobile, form boxes, twitter...all of them) *look at desktop => tablet => mobile*
 - [ ] page by page look at style *look at desktop => tablet => mobile*
@@ -20,6 +19,7 @@ Todo
 - [ ] glassware needs search
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] link to accessories on product page in text somewehere
 - [x] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [x] clamp charts need to be on product page for flasks not in tech library
 - [x] create link to general information fliers on product pge for download and in tech library change links to general info to the product page
