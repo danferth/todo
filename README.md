@@ -18,9 +18,9 @@ Todo
 - [ ] Product parts linsings have a checkbox for common items like 'sterile, accessories available...'
 - [ ] glassware organization needed
 - [ ] glassware needs search
-- [ ] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [x] clamp charts need to be on product page for flasks not in tech library
 - [x] create link to general information fliers on product pge for download and in tech library change links to general info to the product page
 - [x] remove any empty links (mostly addwords landing pages) from tech library
