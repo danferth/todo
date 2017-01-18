@@ -5,11 +5,11 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
+- [ ] forms need second look at validation *also* **what gives on the other forms need answers**
 - [ ] documentation needs to be redone. *ie. json keys, shortcoeds...*
 - [ ] module by module style review (parts list and tech notes hover and click on mobile, form boxes, twitter...all of them) *look at desktop => tablet => mobile*
 - [ ] page by page look at style *look at desktop => tablet => mobile*
 - [ ] shortcode page layout style review from desktop down to mobile
-- [ ] forms need second look at validation *also* **what gives on the other forms need answers**
 - [ ] nail down forms text, responce, output and email receiving issues
 - [ ] double check all product images and downloads. *(download the folders from c9 output on screen file names from json and match up in file explorer with details view)*
 - [ ] God i know there's more....
@@ -19,6 +19,7 @@ Todo
 - [ ] glassware needs search
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] update photos for transfer caps
 - [x] link to accessories on product page in text somewehere
 - [x] each product needs the basic questions answered up front. *i.e. fill volumnes, comes in multiple sizes... and not in the form of bullets maybe a module of some sort so people konw to look in a sertain place. 
 - [x] clamp charts need to be on product page for flasks not in tech library
