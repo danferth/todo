@@ -5,7 +5,6 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
-- [ ] Forms are not setting session storage right. it shows on inithian form submit but then disapears only on secong submition does it take
 - [ ] nail down forms text, responce, output and email receiving issues
 - [ ] double check all product images and downloads. *(download the folders from c9 output on screen file names from json and match up in file explorer with details view)*
 - [ ] the related products needs an overhaul. it's a bit big when only two are present. Also the styling when on smaller screens is horrible
@@ -19,6 +18,7 @@ Todo
 - [ ] God i know there's more....
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] Forms are not setting session storage right. it shows on inithian form submit but then disapears only on secong submition does it take
 - [x] forms need second look at validation *also* **what gives on the other forms need answers**
 - [x] update photos for transfer caps
 - [x] link to accessories on product page in text somewehere
