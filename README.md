@@ -18,6 +18,7 @@ Todo
 - [ ] glassware organization needed
 - [ ] glassware needs search
 - [ ] module by module style review (parts list and tech notes hover and click on mobile, form boxes, twitter...all of them) *look at desktop => tablet => mobile*
+- [ ] remove bower and other unneeded code
 - [ ] documentation needs to be redone. *ie. json keys, shortcoeds...*
 - [ ] page by page look at style *look at desktop => tablet => mobile*
 - [ ] shortcode page layout style review from desktop down to mobile
