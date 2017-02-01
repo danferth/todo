@@ -5,7 +5,7 @@ Todo
 - [ ] text for sales to look over
 
 ## The big random list
-- [ ] Need to reupload the newer version of font awesome
+- [x] Need to reupload the newer version of font awesome
 - [ ] zip code on quote and contact form
 - [ ] List of subjects from forms
 - [ ] checkbox to auto complete end user with purchase info
