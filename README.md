@@ -1,9 +1,6 @@
 Todo
 ====
 
-# OTHER PEOPLES PROBLEMS
-- [ ] text for sales to look over
-
 ## The big random list
 - [x] Need to reupload the newer version of font awesome
 - [x] zip code on quote and contact form
