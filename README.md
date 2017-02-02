@@ -5,8 +5,8 @@ Todo
 - [x] Need to reupload the newer version of font awesome
 - [x] zip code on quote and contact form
 - [ ] List of subjects from forms
-- [ ] checkbox to auto complete end user with purchase info
-- [ ] Billing info same as shipping info checkbox
+- [x] checkbox to auto complete end user with purchase info
+- [x] Billing info same as shipping info checkbox
 - [ ] Link to /tc/ under last sentance at top of new order form
 - [x] On well shape overlay the well# and vell vol. are on the same line
 - [ ] double check all product images and downloads. *(download the folders from c9 output on screen file names from json and match up in file explorer with details view)*
