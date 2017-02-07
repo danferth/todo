@@ -2,7 +2,6 @@ Todo
 ====
 
 ## The big random list
-- [ ] double check the `<span>` needed for required fields in forms for jq validate.  Does it need an id or not?
 - [ ] double check all product images and downloads. *(download the folders from c9 output on screen file names from json and match up in file explorer with details view)*
 - [ ] the related products needs an overhaul. it's a bit big when only two are present. Also the styling when on smaller screens is horrible
 - [ ] Product parts linsings have a checkbox for common items like 'sterile, accessories available...'
@@ -16,6 +15,7 @@ Todo
 - [ ] God i know there's more....
 - [ ] use [plax](https://github.com/danferth/plax) to add another layer to roadmap tiles
 - [ ] change over to gulp - will have to work off of gulp starter
+- [x] double check the `<span>` needed for required fields in forms for jq validate.  Does it need an id or not?
 - [x] Need to reupload the newer version of font awesome
 - [x] zip code on quote and contact form
 - [x] List of subjects from forms
